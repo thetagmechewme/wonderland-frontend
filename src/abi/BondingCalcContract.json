@@ -2,14 +2,14 @@
     "abi": [{
         "inputs": [{
             "internalType": "address",
-            "name": "_Time",
+            "name": "_3Leaf",
             "type": "address"
         }],
         "stateMutability": "nonpayable",
         "type": "constructor"
     }, {
         "inputs": [],
-        "name": "Time",
+        "name": "3Leaf",
         "outputs": [{
             "internalType": "address",
             "name": "",
